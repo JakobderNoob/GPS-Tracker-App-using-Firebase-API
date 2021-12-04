@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664017715846",
+    "project_id": "gpstrackerv4",
+    "storage_bucket": "gpstrackerv4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664017715846:android:11f196a97cb6a57845c707",
+        "android_client_info": {
+          "package_name": "prime.mapapp.gpstrackerv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664017715846-pcu8gu6g2ujdc51kib56th4ui99tv6mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwRz4UQtF_pLD_DyVpy_wX8yLnXtKQF-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664017715846-pcu8gu6g2ujdc51kib56th4ui99tv6mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
