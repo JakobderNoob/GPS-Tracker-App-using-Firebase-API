@@ -1,4 +1,4 @@
-# GPSTRACKERAPP-USING-FIREBASE-API
+# GPS-Tracker App using FIREBASE API
 This Android app uses the Firebase API to read GPS locations and display them on a map.
 
 # Screenshot
